@@ -1,7 +1,7 @@
 ###############################################################
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
-VERSION="2.1.2"
+VERSION="2.1.3"
 # Vault Radar Demo Leak Seed
 # Version: 2.1.2
 # Timestamp: 2025-07-09 16:14:22
